@@ -38,7 +38,7 @@ With the increasing number of vehicles in urban areas, parking has become a majo
 
 
 ## GitHub Repository Link
-https://github.com/joe9431/smart-parking-system
+https://github.com/saigowthammangapati/smart-parking-system
 
 ## Project Structure
 - **Dataset**: Contains raw parking sensor data (e.g., CSV, JSON, GeoJSON).
@@ -49,7 +49,7 @@ https://github.com/joe9431/smart-parking-system
 
 ## Setup
 1. Clone the repository:
-git clone https://github.com/joe9431/smart-parking-system
+git clone https://github.com/saigowthammangapati/smart-parking-system
 
 2. Install the dependencies:
 pip install -r requirements.txt
